@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 8px;" alt="Matrix Rain Header">
+<br>
+
 # < Hi there, I'm Saif! />
 
 ### 👨‍💻 CS Student @ Quaid-e-Azam University | 🔐 Aspiring Ethical Hacker
