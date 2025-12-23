@@ -53,4 +53,5 @@
 <a href="https://www.linkedin.com/in/saif-ur-rehman-arain-98905129a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://saifsgameblog.blogspot.com"><img src="https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 <a href="https://www.instagram.com/safee_ameen47"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/saif.arain.69"><img src="https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
