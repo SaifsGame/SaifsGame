@@ -42,6 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SaifsGame&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifsGame&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=SaifsGame&theme=dark&ring=20C20E&fire=20C20E&currStreakNum=20C20E&currStreakLabel=20C20E&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
