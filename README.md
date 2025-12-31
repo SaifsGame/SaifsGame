@@ -43,15 +43,14 @@
 </p>
 
 ---
-
 ### 📊 GitHub Activity & Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifsGame&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifsGame&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaifsGame&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaifsGame&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifsGame&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifsGame&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
