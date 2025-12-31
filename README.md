@@ -66,3 +66,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SaifsGame&color=39FF14&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
+
+### 🐍 My Contributions Snake
+![github contribution grid snake animation](https://raw.githubusercontent.com/SaifsGame/SaifsGame/output/github-contribution-grid-snake.svg)
