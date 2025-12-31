@@ -16,9 +16,16 @@
 ### 🧐 About Me
 - 🇵🇰 Based in **Islamabad, Pakistan**.
 - 🎓 Currently pursuing **BS Computer Science (Class of '28)** at QAU.
-- 💻 My primary weapon of choice is **C++**, but I am expanding into **Python** and **Linux**.
+- 💻 Primary weapon: **C++**, currently mastering **Python** and **Linux**.
 - 🛡️ Passionate about **Cybersecurity**, **Penetration Testing**, and **Network Defense**.
 - 🎯 **Goal:** To secure the digital world as a certified Ethical Hacker.
+
+---
+
+### 🐍 Featured Repository
+> [!TIP]
+> **Check out my latest project!**
+> [Python Programming](https://github.com/SaifsGame/Python-Programming-) - A collection of Python projects, including a fully functional Tic-Tac-Toe game.
 
 ---
 
@@ -37,13 +44,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifsGame&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifsGame&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaifsGame&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifsGame&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
 </div>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SaifsGame&theme=dark&ring=20C20E&fire=20C20E&currStreakNum=20C20E&currStreakLabel=20C20E&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifsGame&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -53,5 +61,9 @@
 <a href="https://www.linkedin.com/in/saif-ur-rehman-arain-98905129a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://saifsgameblog.blogspot.com"><img src="https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 <a href="https://www.instagram.com/safee_ameen47"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/saif.arain.69"><img src="https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/saif.arain.69"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaifsGame&color=39FF14&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
