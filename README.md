@@ -5,7 +5,7 @@
 
 # < Hi there, I'm Saif! />
 
-### 👨‍💻 CS Student @ Quaid-e-Azam University | 🔐 Aspiring Ethical Hacker
+### 👨‍💻 IT Student @ International Islamic University Islamabad | 🔐 Aspiring Ethical Hacker
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=System.init(Profile)%3B;Loading+C%2B%2B+Modules...;Accessing+Ethical+Hacking+Protocols...;Welcome+to+SaifsGame+Hub!" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@
 
 ### 🧐 About Me
 - 🇵🇰 Based in **Islamabad, Pakistan**.
-- 🎓 Currently pursuing **BS Computer Science (Class of '28)** at QAU.
+- 🎓 Currently pursuing **BS Information Technology(Class of '30)** at IIUI.
 - 💻 Primary weapon: **C++**, currently mastering **Python** and **Linux**.
 - 🛡️ Passionate about **Cybersecurity**, **Penetration Testing**, and **Network Defense**.
 - 🎯 **Goal:** To secure the digital world as a certified Ethical Hacker.
