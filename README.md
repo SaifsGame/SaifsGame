@@ -15,7 +15,7 @@
 
 ### 🧐 About Me
 - 🇵🇰 Based in **Islamabad, Pakistan**.
-- 🎓 Currently pursuing **BS Information Technology(Class of '30)** at IIUI.
+- 🎓 Currently pursuing **BS Information Technology (Class of '30)** at IIUI.
 - 💻 Primary weapon: **C++**, currently mastering **Python** and **Linux**.
 - 🛡️ Passionate about **Cybersecurity**, **Penetration Testing**, and **Network Defense**.
 - 🎯 **Goal:** To secure the digital world as a certified Ethical Hacker.
@@ -25,7 +25,7 @@
 ### 🐍 Featured Repository
 > [!TIP]
 > **Check out my latest project!**
-> [Python Programming](https://github.com/SaifsGame/Python-Programming-) - A collection of Python projects, including a fully functional Tic-Tac-Toe game.
+> [Caesar Cipher Encryption](https://github.com/SaifsGame/Python-Programming-/tree/main/Caeser_Cipher) - A Python encryption tool demonstrating cryptography concepts, freshly added to my Python Programming collection.
 
 ---
 
@@ -46,8 +46,8 @@
 ---
 ### 📊 GitHub Activity & Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaifsGame&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaifsGame&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaifsGame&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifsGame&layout=compact&theme=tokyonight" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
